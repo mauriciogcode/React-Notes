@@ -22,5 +22,5 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-\react-fundamentals\node_modules
-\react-components\node_modules
+/react-fundamentals/node_modules
+/react-components/node_modules
